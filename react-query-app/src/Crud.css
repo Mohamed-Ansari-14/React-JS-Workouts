@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form {
+    margin: auto;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+
+input {
+    width: 350px;
+    font-size: 20px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.home-btn {
+    padding: 10px 20px;
+    background-color: rgb(12, 102, 247);
+    color: white;
+    border: none;
+    width: 100px;
+    border-radius: 10px;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.edit-form input {
+    margin-right: 10px;
+}
+
+.edit-form button {
+    margin-right: 15px;
+}
+
+.content {
+    margin: auto;
+    background-color: rgb(30, 241, 7);
+    width: 750px;
+    height: 50px;
+}

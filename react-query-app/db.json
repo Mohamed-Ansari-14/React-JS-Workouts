@@ -1,0 +1,635 @@
+{
+  "posts1": [
+    {
+      "id": 1,
+      "title": "Understanding JavaScript Closures",
+      "body": "Closures allow functions to access variables from an enclosing scope even after that scope has closed."
+    },
+    {
+      "id": 2,
+      "title": "A Guide to CSS Flexbox",
+      "body": "Flexbox makes it easier to design a flexible and responsive layout structure."
+    },
+    {
+      "id": 3,
+      "title": "What is REST API?",
+      "body": "REST is an architectural style for designing networked applications."
+    },
+    {
+      "id": 4,
+      "title": "Top 10 VSCode Extensions",
+      "body": "Explore useful extensions like Prettier, ESLint, Live Server, and more."
+    },
+    {
+      "id": 5,
+      "title": "Responsive Web Design Principles",
+      "body": "Build sites that work well on all screen sizes using media queries and flexible layouts."
+    },
+    {
+      "id": 6,
+      "title": "Getting Started with React",
+      "body": "React is a library for building interactive user interfaces using components."
+    },
+    {
+      "id": 7,
+      "title": "Java vs JavaScript",
+      "body": "Despite the similar names, Java and JavaScript are very different in use and purpose."
+    },
+    {
+      "id": 8,
+      "title": "Node.js Crash Course",
+      "body": "Learn how to build server-side applications using JavaScript with Node.js."
+    },
+    {
+      "id": 9,
+      "title": "Creating REST APIs with Spring Boot",
+      "body": "Spring Boot makes it easy to build stand-alone, production-grade Spring applications."
+    },
+    {
+      "id": 10,
+      "title": "Async/Await in JavaScript",
+      "body": "Async/await simplifies asynchronous programming by making code easier to read and write."
+    }
+  ],
+  "posts2": [
+    {
+      "id": 1,
+      "title": "Introduction to TypeScript",
+      "body": "TypeScript is a strongly typed superset of JavaScript that compiles to plain JavaScript."
+    },
+    {
+      "id": 2,
+      "title": "MongoDB Basics",
+      "body": "MongoDB is a NoSQL database that stores data in flexible, JSON-like documents."
+    },
+    {
+      "id": 3,
+      "title": "Debugging in Chrome DevTools",
+      "body": "Chrome DevTools provides powerful tools for debugging and optimizing websites."
+    },
+    {
+      "id": 4,
+      "title": "Using Git and GitHub",
+      "body": "Learn how to manage your code with version control using Git and GitHub."
+    },
+    {
+      "id": 5,
+      "title": "Angular vs React",
+      "body": "Both are powerful front-end frameworks with their own strengths and weaknesses."
+    },
+    {
+      "id": 6,
+      "title": "Building a Portfolio Website",
+      "body": "Showcase your skills and projects with a professional-looking portfolio site."
+    },
+    {
+      "id": 7,
+      "title": "Introduction to Web Accessibility",
+      "body": "Make your websites usable by everyone, including people with disabilities."
+    },
+    {
+      "id": 8,
+      "title": "Deploying Apps with Vercel",
+      "body": "Vercel offers an easy way to deploy front-end apps with CI/CD out of the box."
+    },
+    {
+      "id": 9,
+      "title": "Understanding HTTP Methods",
+      "body": "GET, POST, PUT, DELETE are core to building RESTful APIs."
+    },
+    {
+      "id": 10,
+      "title": "Handling Forms in Angular",
+      "body": "Angular provides reactive and template-driven approaches to handling form inputs."
+    }
+  ],
+  "posts3": [
+    {
+      "id": 1,
+      "title": "Introduction to TypeScript",
+      "body": "TypeScript is a strongly typed superset of JavaScript that compiles to plain JavaScript."
+    },
+    {
+      "id": 2,
+      "title": "MongoDB Basics",
+      "body": "MongoDB is a NoSQL database that stores data in flexible, JSON-like documents."
+    },
+    {
+      "id": 3,
+      "title": "Debugging in Chrome DevTools",
+      "body": "Chrome DevTools provides powerful tools for debugging and optimizing websites."
+    },
+    {
+      "id": 4,
+      "title": "Using Git and GitHub",
+      "body": "Learn how to manage your code with version control using Git and GitHub."
+    },
+    {
+      "id": 5,
+      "title": "Angular vs React",
+      "body": "Both are powerful front-end frameworks with their own strengths and weaknesses."
+    }
+  ],
+  "fruits": [
+    {
+      "id": 1,
+      "title": "Apple",
+      "body": "Apple is a delicious and nutritious fruit enjoyed around the world."
+    },
+    {
+      "id": 2,
+      "title": "Apricot",
+      "body": "Apricot is a small orange fruit with velvety skin and a sweet taste."
+    },
+    {
+      "id": 3,
+      "title": "Avocado",
+      "body": "Avocado is a creamy fruit rich in healthy fats and nutrients."
+    },
+    {
+      "id": 4,
+      "title": "Banana",
+      "body": "Banana is a convenient snack and a great source of potassium."
+    },
+    {
+      "id": 5,
+      "title": "Blackberry",
+      "body": "Blackberry is a juicy dark berry often used in desserts."
+    },
+    {
+      "id": 6,
+      "title": "Blueberry",
+      "body": "Blueberry is a tiny superfood packed with antioxidants."
+    },
+    {
+      "id": 7,
+      "title": "Cantaloupe",
+      "body": "Cantaloupe is a sweet melon with orange flesh and netted skin."
+    },
+    {
+      "id": 8,
+      "title": "Cherry",
+      "body": "Cherry is a small red fruit with a tart or sweet taste."
+    },
+    {
+      "id": 9,
+      "title": "Coconut",
+      "body": "Coconut is used for its water, milk, and flavorful white flesh."
+    },
+    {
+      "id": 10,
+      "title": "Cranberry",
+      "body": "Cranberry is a tart berry used in juices and sauces."
+    },
+    {
+      "id": 11,
+      "title": "Currant",
+      "body": "Currant is a small berry that grows in bunches, often red or black."
+    },
+    {
+      "id": 12,
+      "title": "Date",
+      "body": "Date is a sweet chewy fruit commonly found in Middle Eastern dishes."
+    },
+    {
+      "id": 13,
+      "title": "Dragonfruit",
+      "body": "Dragonfruit has a striking pink exterior and speckled white interior."
+    },
+    {
+      "id": 14,
+      "title": "Durian",
+      "body": "Durian is known as the king of fruits with a strong odor."
+    },
+    {
+      "id": 15,
+      "title": "Elderberry",
+      "body": "Elderberry is used in syrups and is believed to support immunity."
+    },
+    {
+      "id": 16,
+      "title": "Fig",
+      "body": "Fig is a soft, sweet fruit full of tiny seeds."
+    },
+    {
+      "id": 17,
+      "title": "Grape",
+      "body": "Grape is a juicy fruit used in wine, juice, and snacks."
+    },
+    {
+      "id": 18,
+      "title": "Grapefruit",
+      "body": "Grapefruit is a citrus fruit with a slightly bitter, tangy taste."
+    },
+    {
+      "id": 19,
+      "title": "Guava",
+      "body": "Guava is rich in Vitamin C and has a floral aroma."
+    },
+    {
+      "id": 20,
+      "title": "Honeydew",
+      "body": "Honeydew is a sweet and light green melon."
+    },
+    {
+      "id": 21,
+      "title": "Indian Fig",
+      "body": "Indian Fig, or prickly pear, is a cactus fruit with vibrant colors."
+    },
+    {
+      "id": 22,
+      "title": "Jackfruit",
+      "body": "Jackfruit is the largest tree-borne fruit with a sweet flavor."
+    },
+    {
+      "id": 23,
+      "title": "Jambul",
+      "body": "Jambul is a dark purple fruit native to the Indian subcontinent."
+    },
+    {
+      "id": 24,
+      "title": "Jujube",
+      "body": "Jujube, or red date, is chewy and sweet when dried."
+    },
+    {
+      "id": 25,
+      "title": "Kiwi",
+      "body": "Kiwi is a fuzzy fruit with green flesh and black seeds."
+    },
+    {
+      "id": 26,
+      "title": "Kumquat",
+      "body": "Kumquat is a tiny citrus fruit eaten with its skin."
+    },
+    {
+      "id": 27,
+      "title": "Lemon",
+      "body": "Lemon is known for its sour taste and is used in drinks and dishes."
+    },
+    {
+      "id": 28,
+      "title": "Lime",
+      "body": "Lime is a green citrus fruit used to add zest and flavor."
+    },
+    {
+      "id": 29,
+      "title": "Longan",
+      "body": "Longan is a tropical fruit similar to lychee."
+    },
+    {
+      "id": 30,
+      "title": "Loquat",
+      "body": "Loquat is an orange-fleshed fruit that is juicy and tangy."
+    },
+    {
+      "id": 31,
+      "title": "Lychee",
+      "body": "Lychee is a juicy tropical fruit with a floral taste."
+    },
+    {
+      "id": 32,
+      "title": "Mango",
+      "body": "Mango is a tropical favorite known for its sweetness."
+    },
+    {
+      "id": 33,
+      "title": "Mangosteen",
+      "body": "Mangosteen is called the queen of fruits and has a tangy flavor."
+    },
+    {
+      "id": 34,
+      "title": "Melon",
+      "body": "Melon includes several varieties like cantaloupe and honeydew."
+    },
+    {
+      "id": 35,
+      "title": "Mulberry",
+      "body": "Mulberry looks like a blackberry and is sweet when ripe."
+    },
+    {
+      "id": 36,
+      "title": "Nance",
+      "body": "Nance is a yellow tropical fruit used in jams and drinks."
+    },
+    {
+      "id": 37,
+      "title": "Nectarine",
+      "body": "Nectarine is a smooth-skinned peach variant."
+    },
+    {
+      "id": 38,
+      "title": "Olive",
+      "body": "Olive is technically a fruit, often used in oil and pickles."
+    },
+    {
+      "id": 39,
+      "title": "Orange",
+      "body": "Orange is a popular citrus fruit rich in Vitamin C."
+    },
+    {
+      "id": 40,
+      "title": "Papaya",
+      "body": "Papaya is a tropical fruit with orange flesh and black seeds."
+    },
+    {
+      "id": 41,
+      "title": "Passionfruit",
+      "body": "Passionfruit has a jelly-like pulp and a tangy taste."
+    },
+    {
+      "id": 42,
+      "title": "Peach",
+      "body": "Peach is a juicy fruit with fuzzy skin and sweet flesh."
+    },
+    {
+      "id": 43,
+      "title": "Pear",
+      "body": "Pear is a sweet and grainy fruit enjoyed fresh or canned."
+    },
+    {
+      "id": 44,
+      "title": "Persimmon",
+      "body": "Persimmon is an orange fruit that tastes like honey when ripe."
+    },
+    {
+      "id": 45,
+      "title": "Pineapple",
+      "body": "Pineapple is a tropical fruit known for its tangy sweetness."
+    },
+    {
+      "id": 46,
+      "title": "Plantain",
+      "body": "Plantain is a starchy fruit used mostly in cooking."
+    },
+    {
+      "id": 47,
+      "title": "Plum",
+      "body": "Plum is a juicy fruit that comes in many colors and flavors."
+    },
+    {
+      "id": 48,
+      "title": "Pomegranate",
+      "body": "Pomegranate is full of ruby-red seeds and antioxidants."
+    },
+    {
+      "id": 49,
+      "title": "Pomelo",
+      "body": "Pomelo is the largest citrus fruit with a mild flavor."
+    },
+    {
+      "id": 50,
+      "title": "Prickly Pear",
+      "body": "Prickly Pear is a cactus fruit with bright colors."
+    },
+    {
+      "id": 51,
+      "title": "Quince",
+      "body": "Quince is a hard fruit often cooked into jelly or jam."
+    },
+    {
+      "id": 52,
+      "title": "Raisin",
+      "body": "Raisin is a dried grape used in baking and snacks."
+    },
+    {
+      "id": 53,
+      "title": "Rambutan",
+      "body": "Rambutan is hairy on the outside and juicy inside like lychee."
+    },
+    {
+      "id": 54,
+      "title": "Raspberry",
+      "body": "Raspberry is a soft red fruit with a sweet-tart taste."
+    },
+    {
+      "id": 55,
+      "title": "Redcurrant",
+      "body": "Redcurrant is a sour berry often used in jams and jellies."
+    },
+    {
+      "id": 56,
+      "title": "Salak",
+      "body": "Salak, or snake fruit, has reddish-brown scaly skin."
+    },
+    {
+      "id": 57,
+      "title": "Sapodilla",
+      "body": "Sapodilla is sweet and malty, with a brown rough skin."
+    },
+    {
+      "id": 58,
+      "title": "Sapote",
+      "body": "Sapote comes in different varieties and has a custard-like flesh."
+    },
+    {
+      "id": 59,
+      "title": "Satsuma",
+      "body": "Satsuma is a seedless citrus fruit that peels easily."
+    },
+    {
+      "id": 60,
+      "title": "Star Apple",
+      "body": "Star Apple has a purple skin and white milky pulp."
+    },
+    {
+      "id": 61,
+      "title": "Starfruit",
+      "body": "Starfruit has a waxy yellow skin and is shaped like a star."
+    },
+    {
+      "id": 62,
+      "title": "Strawberry",
+      "body": "Strawberry is a popular red fruit with seeds on the outside."
+    },
+    {
+      "id": 63,
+      "title": "Surinam Cherry",
+      "body": "Surinam Cherry is a ribbed, red fruit with a tart flavor."
+    },
+    {
+      "id": 64,
+      "title": "Tamarillo",
+      "body": "Tamarillo is also called tree tomato and is tangy-sweet."
+    },
+    {
+      "id": 65,
+      "title": "Tamarind",
+      "body": "Tamarind is a sour fruit often used in chutneys and sauces."
+    },
+    {
+      "id": 66,
+      "title": "Tangerine",
+      "body": "Tangerine is a small, easy-to-peel citrus fruit."
+    },
+    {
+      "id": 67,
+      "title": "Tomato",
+      "body": "Tomato is a fruit used like a vegetable in savory dishes."
+    },
+    {
+      "id": 68,
+      "title": "Ugli Fruit",
+      "body": "Ugli Fruit is a Jamaican citrus with wrinkled skin."
+    },
+    {
+      "id": 69,
+      "title": "Watermelon",
+      "body": "Watermelon is a refreshing fruit with red juicy flesh."
+    },
+    {
+      "id": 70,
+      "title": "White Currant",
+      "body": "White Currant is a pale berry with a delicate flavor."
+    },
+    {
+      "id": 71,
+      "title": "Yuzu",
+      "body": "Yuzu is a Japanese citrus fruit with a strong aroma."
+    },
+    {
+      "id": 72,
+      "title": "Zucchini",
+      "body": "Zucchini is technically a fruit, used in savory dishes."
+    },
+    {
+      "id": 73,
+      "title": "Fruit73",
+      "body": "Fruit73 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 74,
+      "title": "Fruit74",
+      "body": "Fruit74 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 75,
+      "title": "Fruit75",
+      "body": "Fruit75 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 76,
+      "title": "Fruit76",
+      "body": "Fruit76 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 77,
+      "title": "Fruit77",
+      "body": "Fruit77 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 78,
+      "title": "Fruit78",
+      "body": "Fruit78 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 79,
+      "title": "Fruit79",
+      "body": "Fruit79 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 80,
+      "title": "Fruit80",
+      "body": "Fruit80 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 81,
+      "title": "Fruit81",
+      "body": "Fruit81 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 82,
+      "title": "Fruit82",
+      "body": "Fruit82 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 83,
+      "title": "Fruit83",
+      "body": "Fruit83 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 84,
+      "title": "Fruit84",
+      "body": "Fruit84 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 85,
+      "title": "Fruit85",
+      "body": "Fruit85 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 86,
+      "title": "Fruit86",
+      "body": "Fruit86 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 87,
+      "title": "Fruit87",
+      "body": "Fruit87 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 88,
+      "title": "Fruit88",
+      "body": "Fruit88 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 89,
+      "title": "Fruit89",
+      "body": "Fruit89 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 90,
+      "title": "Fruit90",
+      "body": "Fruit90 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 91,
+      "title": "Fruit91",
+      "body": "Fruit91 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 92,
+      "title": "Fruit92",
+      "body": "Fruit92 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 93,
+      "title": "Fruit93",
+      "body": "Fruit93 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 94,
+      "title": "Fruit94",
+      "body": "Fruit94 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 95,
+      "title": "Fruit95",
+      "body": "Fruit95 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 96,
+      "title": "Fruit96",
+      "body": "Fruit96 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 97,
+      "title": "Fruit97",
+      "body": "Fruit97 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 98,
+      "title": "Fruit98",
+      "body": "Fruit98 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 99,
+      "title": "Fruit99",
+      "body": "Fruit99 is a fictional fruit used for filler data."
+    },
+    {
+      "id": 100,
+      "title": "Fruit100",
+      "body": "Fruit100 is a fictional fruit used for filler data."
+    }
+  ]
+}
